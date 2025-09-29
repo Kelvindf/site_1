@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Página Bootstrap - Base</title>
+    <!-- Link para o CSS do Bootstrap -->
+
+
+    <!-- Nosso CSS personalizado (será adicionado depois) -->
+
+</head>
+
+<body>
+
+    <div class="container mt-4">
+        <h1>Bem-vindos à Aula de Bootstrap!</h1>
+        <p>Aqui vamos adicionar os componentes copiados do site oficial do Bootstrap.</p>
+
+        <!-- Espaço para Imagens -->
+        <hr>
+        <h2>Imagens</h2>
+        <!-- Cole o código das imagens aqui -->
+
+        <!-- Espaço para Tabelas -->
+        <hr>
+        <h2>Tabelas</h2>
+        <!-- Cole o código das tabelas aqui -->
+
+        <!-- Espaço para Alertas -->
+        <hr>
+        <h2>Alertas</h2>
+        <!-- Cole o código dos alertas aqui -->
+
+        <!-- Espaço para Botões -->
+        <hr>
+        <h2>Botões</h2>
+        <!-- Cole o código dos botões aqui -->
+
+        <!-- Espaço para Badges -->
+        <hr>
+        <h2>Badges</h2>
+        <!-- Cole o código dos badges aqui -->
+
+        <!-- Espaço para List Group -->
+        <hr>
+        <h2>List Group</h2>
+        <!-- Cole o código dos list groups aqui -->
+
+    </div>
+
+
+    <!-- Link para o JavaScript do Bootstrap -->
+
+
+</body>
